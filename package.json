@@ -1,0 +1,27 @@
+{
+  "name": "express-js-boilerplate",
+  "version": "0.0.1",
+  "description": "express.js boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "start": "node your-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzbernardo/express-js-boilerplate.git"
+  },
+  "keywords": [
+    "express.js",
+    "boilerplate",
+    "mongodb"
+  ],
+  "author": "lzbernardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lzbernardo/express-js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/lzbernardo/express-js-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
